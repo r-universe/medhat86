@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Ghat"]
+	path = Ghat
+	url = https://github.com/medhat86/ghat
+	shallow = true
+	registered = true
